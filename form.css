@@ -1,0 +1,27 @@
+*{
+    box-sizing: border-box;
+    list-style-type: none;
+    padding: 10px 10px;
+    margin: 10px 10px ;
+    
+}
+h1{
+    text-align: center;
+   
+}
+form{
+
+    border: 10px solid black;
+    background-color: rgb(191, 235, 235);
+   
+}
+fieldset{
+    background-color:white;
+}
+.a{
+    background-color: brown;
+    color:white;
+    padding: 5px 5px;
+    margin: 10px 10px;
+    
+}
